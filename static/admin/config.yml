@@ -35,6 +35,7 @@ collections:
           widget: "hidden"
           default: "indexPage"
         - label: "tagline"
+          name: "tagline"
           widget: "string"
         - label: "Hero Image"
           name: "heroImage"
