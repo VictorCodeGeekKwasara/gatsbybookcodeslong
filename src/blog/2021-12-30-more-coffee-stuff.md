@@ -1,6 +1,7 @@
 ---
 title: More coffee stuff
 date: 2021-12-30T07:04:21.384Z
+contentKey: blog
 ---
 Coffee just gives me love and affection, I mean that's awesome lol. What more can I say I brew my own stuff.
 
