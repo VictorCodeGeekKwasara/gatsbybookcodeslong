@@ -11,6 +11,14 @@ module.exports = {
         path: 'src/blog'
       }
     },
-    'gatsby-transformer-remark'
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        name: 'pageData',
+        path: 'src/pageData'
+      }
+    },
+    'gatsby-transformer-remark',
+
   ]
 };
