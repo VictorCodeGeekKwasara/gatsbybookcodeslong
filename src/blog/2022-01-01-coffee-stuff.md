@@ -1,6 +1,7 @@
 ---
 title: Coffee stuff
 date: 2022-01-01T17:49:13.641Z
+contentKey: blog
 ---
 There is more coffee stuff in my head I promise
 
